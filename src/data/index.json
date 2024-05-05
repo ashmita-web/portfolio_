@@ -1,0 +1,77 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": "Experience in HTML, CSS, and JavaScript for designing and building responsive and interactive interfaces to ensure an engaging user experience."
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "App Development",
+        "description": "Proficiency in programming languages like Kotlin(Android Dev) and Flutter frameworks for cross-platform development. "
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "UI & UX Design",
+        "description": "I have experience working with Canva and Photoshop, a graphic design platform, where I utilized its tools and features to create visually appealing graphics for various projects. "
+      },
+      {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "Database Management System",
+        "description": "Managed and maintained a MySQL database for a web application, including tasks such as schema design, indexing and backup and recovery."
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/placeholder-image.png",
+        "title": "Machinery App",
+        "description": "Designed and published the Machinery App for a startup I worked for. Worked with the app development team to identify, prioritize, and fix bugs during testing of the app.",
+        
+        "link": "View In Github"
+      },
+      {
+        "id": "2",
+        "src": "./img/placeholder-image-1.png",
+        "title": "Weather App",
+        "description": " It is an application that provides users with up-to-date weather information for their current location or any specified location. It provides detailed information such as temperature, humidity and wind speed/direction etc.",
+        "link": "https://github.com/ashmita-web/Ashmita-s-weather-app"
+      },
+      {
+        "id": "3",
+        "src": "./img/placeholder-image-2.png",
+        "title": "Portfolio Website",
+        "description": " It is a website to showcase my skills, projects, and experience to potential employers or clients. It summarizes my professional experience and key achievements.",
+        "link": "View In Github"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "src": "./img/avatar-image.png",
+        "description": "Selected as one of the top 70 candidates among the 8500+ applicants for the LinkedIn CoachIn Program’24, facilitated by LinkedIn.",
+        "author_name": "LinkedIn Coachin Program'24",
+        "author_designation": "LinkedIn"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Awarded an AnitaB.org Advancing Inclusion Scholarship to attend the Grace Hopper Celebration 2024 (GHC 24) virtually from October 8-11, 2024.",
+        "author_name": "GHC Scholarship'24",
+        "author_designation": "AnitaB.org"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "Competed with 679 teams across India and secured the First runner up position and won a cashprize worth Rs.5000/- in a global case study competition organised by 180 DC JMC.",
+        "author_name": "First Runner Up",
+        "author_designation": "Global Case Study"
+      }
+    ]
+  }
